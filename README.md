@@ -1,7 +1,9 @@
 # eRivers
 
 ### About this package:
-Rivers, lakes and wetlands are generally known to be net sources of greenhouse gases to the atmosphere as they regularly emit CO2 and CH4, but much work remains quantifying spatial variability and sources, especially for large river systems highly impacted by human activities and infrastructure. The motivation behind this collaborative effort is to build an online, open-source tool for synthesizing remotely sensed watershed-related geospatial data with in situ field observations of water chemistry. Our ultimate goal is to automate data ingestion, fusion and exploration to help understand the patterns and controls driving changes in aquatic greenhouse gases to help inform regional and global carbon budgets.
+Rivers, lakes and wetlands are generally known to be net sources of greenhouse gases to the atmosphere as they regularly emit CO2 and CH4, but much work remains quantifying spatial variability and sources, especially for large river systems highly impacted by human activities and infrastructure. The motivation behind this collaborative effort is to build an online, open-source tool for synthesizing remotely sensed watershed-related geospatial data with in situ field observations of water chemistry. 
+
+We have developed a series of tools that will help automate and add a reproducable step in the cleaning of this data. We have also added several tools to assist in the visualization and statistical interpretation of this data.  Finally, we have developed a series of tools that utilize Google's [Earth Engine](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi1vv6Cy9LLAhUP52MKHYbTAwEQFggcMAA&url=https%3A%2F%2Fearthengine.google.com%2F&usg=AFQjCNFuosOleVlLrynwcQHQ7muPQkcpPQ&sig2=-v39e9xN9qrHp5IYOQD9Uw&bvm=bv.117218890,d.cGc) to plot our data and combine it with a range of geospatial and remote sensing data.
 
 #### [Poster](/presentations/eRivers_Poster.pdf)
 
